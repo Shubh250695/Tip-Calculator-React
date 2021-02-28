@@ -1,0 +1,35 @@
+.Header {
+  box-sizing: border-box;
+  width: 100%;
+  display: block;
+  align-items: baseline;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  background-color: blue;
+  color: #ffffff;
+  text-align: center;
+}
+
+#tip_form {
+  box-sizing: border-box;
+  border-style: solid;
+  width: 100%;
+  display: block;
+  align-items: baseline;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.Footer {
+  box-sizing: border-box;
+  width: 100%;
+  display: block;
+  align-items: baseline;
+  padding-bottom: 5px;
+  margin-bottom: 5px;
+  background-color: dimgray;
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+}
